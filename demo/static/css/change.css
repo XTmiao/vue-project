@@ -1,0 +1,17 @@
+#main{width: 80%; margin:40px auto;}
+#imgBox{width: 100%; margin:30px auto; height: 220px;}
+#imgBox a{display: inline-block; width: 11%; margin-right: 10%;}
+#imgBox .box:last-of-type{margin-right:0;}
+#imgBox .box img{width: 100%;}
+.two{display: none;}
+
+.L_content{width: 70%; float: left;}
+.content{width: 100%; margin-bottom: 100px;}
+.content h3{background: url(../img/bg.jpg) no-repeat; padding-left: 40px; height: 50px; line-height: 50px; font-weight: normal; font-size: 20px; margin-top: 45px; margin-bottom: 30px;}
+.content p{text-indent: 2em; line-height: 28px; margin-bottom: 10px; font-size: 15px;}
+
+.R_content{width: 13%; float: left; margin-left: 11%; margin-top: 60px; padding-left: 5%;  border-left: 1px solid #999}
+.R_content dl{ margin-bottom: 30px;}
+.R_content dl dt{font-size: 23px; color: #F9DB89; line-height: 50px;}
+.R_content dl dd{font-size: 14px; line-height: 30px; cursor: pointer;}
+.R_content .btn{background: #F2CC72; border: none; width: 100%; height: 45px; margin-top: 30px; cursor: pointer;}

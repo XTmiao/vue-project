@@ -1,0 +1,399 @@
+首页：https://www.gengyong.com.cn/api/index
+{
+  "status": 1, 
+  "info": {
+    "carouselInfo": [
+      {
+        "id": 25, 
+        "imgurl": "/uploads/carousel/1524492406117481.jpg"
+      }, 
+      {
+        "id": 24, 
+        "imgurl": "/uploads/carousel/1524492326142829.jpg"
+      }
+    ], 
+    "goodsInfo": [
+      {
+        "id": 5, 
+        "cate_id": 3, 
+        "name": "芋儿鸡", 
+        "description": "", 
+        "price": "68.00", 
+        "reprice": "88.00", 
+        "thumb_img": "/uploads/goods/products/1524493025606852.jpg", 
+        "main_img": "/uploads/goods/products/1524493025715487.jpg", 
+        "detail": "<p><p>芋儿鸡</p></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 6755, 
+        "created_at": "2018-05-07 10:51:28", 
+        "updated_at": "2018-05-07 02:51:28"
+      }, 
+      {
+        "id": 8, 
+        "cate_id": 2, 
+        "name": "羊肉丸菠菜汤", 
+        "description": "", 
+        "price": "56.00", 
+        "reprice": "68.00", 
+        "thumb_img": "/uploads/goods/products/1524578116282061.png", 
+        "main_img": "/uploads/goods/products/1524578116590383.png", 
+        "detail": "<p><p>羊肉丸菠菜汤</p></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 6555, 
+        "created_at": "2018-04-24 21:55:16", 
+        "updated_at": "2018-04-24 13:55:16"
+      }, 
+      {
+        "id": 10, 
+        "cate_id": 5, 
+        "name": "水煮肉片", 
+        "description": "", 
+        "price": "34.00", 
+        "reprice": "543.00", 
+        "thumb_img": "/uploads/goods/products/1524494930525514.jpg", 
+        "main_img": "/uploads/goods/products/1524494930640052.jpg", 
+        "detail": "<p><p><span style="color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">水煮肉片</span></p></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 3543, 
+        "created_at": "2018-05-07 10:52:13", 
+        "updated_at": "2018-05-07 02:52:13"
+      }, 
+      {
+        "id": 12, 
+        "cate_id": 2, 
+        "name": "清蒸大闸蟹", 
+        "description": "", 
+        "price": "34.00", 
+        "reprice": "58.00", 
+        "thumb_img": "/uploads/goods/products/1524495058893581.jpg", 
+        "main_img": "/uploads/goods/products/1524495058433763.jpg", 
+        "detail": "<p><span style=\"color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);\">清蒸大闸蟹</span></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 3543, 
+        "created_at": "2018-04-24 21:52:52", 
+        "updated_at": "2018-04-24 13:52:52"
+      }, 
+      {
+        "id": 11, 
+        "cate_id": 10, 
+        "name": "麻婆豆腐", 
+        "description": "", 
+        "price": "22.00", 
+        "reprice": "28.00", 
+        "thumb_img": "/uploads/goods/products/1524494997536410.jpg", 
+        "main_img": "/uploads/goods/products/1524494997677776.jpg", 
+        "detail": "<p><p><span style="color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">麻婆豆腐</span></p></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 3244, 
+        "created_at": "2018-05-07 10:52:30", 
+        "updated_at": "2018-05-07 02:52:30"
+      }, 
+      {
+        "id": 2, 
+        "cate_id": 10, 
+        "name": "爆炒猪耳", 
+        "description": "", 
+        "price": "0.00", 
+        "reprice": "123.00", 
+        "thumb_img": "/uploads/goods/products/1524492529729424.png", 
+        "main_img": "/uploads/goods/products/1524492529709452.png", 
+        "detail": "<p><p><p><p><p><p><p>萨尔达瓦</p></p></p></p></p></p></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 456, 
+        "created_at": "2018-05-07 10:51:44", 
+        "updated_at": "2018-05-07 02:51:44"
+      }, 
+      {
+        "id": 4, 
+        "cate_id": 3, 
+        "name": "薏米茶树菇排骨汤", 
+        "description": "324", 
+        "price": "23.00", 
+        "reprice": "23.00", 
+        "thumb_img": "/uploads/goods/products/1524492584905356.jpg", 
+        "main_img": "/uploads/goods/products/1524492584219815.jpg", 
+        "detail": "<p><p>fdsd</p></p>", 
+        "remark": "sdf ", 
+        "integral": null, 
+        "status": "1", 
+        "num": 456, 
+        "created_at": "2018-04-23 22:12:45", 
+        "updated_at": "2018-04-23 14:12:45"
+      }, 
+      {
+        "id": 9, 
+        "cate_id": 12, 
+        "name": "鲜虾炒白菜", 
+        "description": "", 
+        "price": "344.00", 
+        "reprice": "355.00", 
+        "thumb_img": "/uploads/goods/products/1524493344446997.jpg", 
+        "main_img": "/uploads/goods/products/1524493344423665.jpg", 
+        "detail": "<p><p><strong><span style="color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">鲜虾炒白菜</span></strong><br/></p></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 345, 
+        "created_at": "2018-05-07 10:52:04", 
+        "updated_at": "2018-05-07 02:52:04"
+      }
+    ]
+  }
+}
+
+首页加载更多：https://www.gengyong.com.cn/api/moreGoods
+{
+  "status": 1, 
+  "info": [
+    {
+      "id": 5, 
+      "cate_id": 3, 
+      "name": "芋儿鸡", 
+      "description": "", 
+      "price": "68.00", 
+      "reprice": "88.00", 
+      "thumb_img": "/uploads/goods/products/1524493025606852.jpg", 
+      "main_img": "/uploads/goods/products/1524493025715487.jpg", 
+      "detail": "<p><p>芋儿鸡</p></p>", 
+      "remark": "", 
+      "integral": null, 
+      "status": "1", 
+      "num": 6755, 
+      "created_at": "2018-05-07 10:51:28", 
+      "updated_at": "2018-05-07 02:51:28"
+    }, 
+    {
+      "id": 8, 
+      "cate_id": 2, 
+      "name": "羊肉丸菠菜汤", 
+      "description": "", 
+      "price": "56.00", 
+      "reprice": "68.00", 
+      "thumb_img": "/uploads/goods/products/1524578116282061.png", 
+      "main_img": "/uploads/goods/products/1524578116590383.png", 
+      "detail": "<p><p>羊肉丸菠菜汤</p></p>", 
+      "remark": "", 
+      "integral": null, 
+      "status": "1", 
+      "num": 6555, 
+      "created_at": "2018-04-24 21:55:16", 
+      "updated_at": "2018-04-24 13:55:16"
+    }, 
+    {
+      "id": 10, 
+      "cate_id": 5, 
+      "name": "水煮肉片", 
+      "description": "", 
+      "price": "34.00", 
+      "reprice": "543.00", 
+      "thumb_img": "/uploads/goods/products/1524494930525514.jpg", 
+      "main_img": "/uploads/goods/products/1524494930640052.jpg", 
+      "detail": "<p><p><span style="color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">水煮肉片</span></p></p>", 
+      "remark": "", 
+      "integral": null, 
+      "status": "1", 
+      "num": 3543, 
+      "created_at": "2018-05-07 10:52:13", 
+      "updated_at": "2018-05-07 02:52:13"
+    }, 
+    {
+      "id": 12, 
+      "cate_id": 2, 
+      "name": "清蒸大闸蟹", 
+      "description": "", 
+      "price": "34.00", 
+      "reprice": "58.00", 
+      "thumb_img": "/uploads/goods/products/1524495058893581.jpg", 
+      "main_img": "/uploads/goods/products/1524495058433763.jpg", 
+      "detail": "<p><span style=\"color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);\">清蒸大闸蟹</span></p>", 
+      "remark": "", 
+      "integral": null, 
+      "status": "1", 
+      "num": 3543, 
+      "created_at": "2018-04-24 21:52:52", 
+      "updated_at": "2018-04-24 13:52:52"
+    }, 
+    {
+      "id": 11, 
+      "cate_id": 10, 
+      "name": "麻婆豆腐", 
+      "description": "", 
+      "price": "22.00", 
+      "reprice": "28.00", 
+      "thumb_img": "/uploads/goods/products/1524494997536410.jpg", 
+      "main_img": "/uploads/goods/products/1524494997677776.jpg", 
+      "detail": "<p><p><span style="color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">麻婆豆腐</span></p></p>", 
+      "remark": "", 
+      "integral": null, 
+      "status": "1", 
+      "num": 3244, 
+      "created_at": "2018-05-07 10:52:30", 
+      "updated_at": "2018-05-07 02:52:30"
+    }, 
+    {
+      "id": 2, 
+      "cate_id": 10, 
+      "name": "爆炒猪耳", 
+      "description": "", 
+      "price": "0.00", 
+      "reprice": "123.00", 
+      "thumb_img": "/uploads/goods/products/1524492529729424.png", 
+      "main_img": "/uploads/goods/products/1524492529709452.png", 
+      "detail": "<p><p><p><p><p><p><p>萨尔达瓦</p></p></p></p></p></p></p>", 
+      "remark": "", 
+      "integral": null, 
+      "status": "1", 
+      "num": 456, 
+      "created_at": "2018-05-07 10:51:44", 
+      "updated_at": "2018-05-07 02:51:44"
+    }, 
+    {
+      "id": 4, 
+      "cate_id": 3, 
+      "name": "薏米茶树菇排骨汤", 
+      "description": "324", 
+      "price": "23.00", 
+      "reprice": "23.00", 
+      "thumb_img": "/uploads/goods/products/1524492584905356.jpg", 
+      "main_img": "/uploads/goods/products/1524492584219815.jpg", 
+      "detail": "<p><p>fdsd</p></p>", 
+      "remark": "sdf ", 
+      "integral": null, 
+      "status": "1", 
+      "num": 456, 
+      "created_at": "2018-04-23 22:12:45", 
+      "updated_at": "2018-04-23 14:12:45"
+    }, 
+    {
+      "id": 9, 
+      "cate_id": 12, 
+      "name": "鲜虾炒白菜", 
+      "description": "", 
+      "price": "344.00", 
+      "reprice": "355.00", 
+      "thumb_img": "/uploads/goods/products/1524493344446997.jpg", 
+      "main_img": "/uploads/goods/products/1524493344423665.jpg", 
+      "detail": "<p><p><strong><span style="color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">鲜虾炒白菜</span></strong><br/></p></p>", 
+      "remark": "", 
+      "integral": null, 
+      "status": "1", 
+      "num": 345, 
+      "created_at": "2018-05-07 10:52:04", 
+      "updated_at": "2018-05-07 02:52:04"
+    }
+  ]
+}
+
+详情页：https://www.gengyong.com.cn/api/goods-detail
+{
+    "status":1,
+    "info":{
+        "comments":[]
+    }
+}
+
+分类首页：https://www.gengyong.com.cn/api/cate-list
+{
+  "status": 1, 
+  "info": {
+    "cateInfo": [
+      {
+        "id": 2, 
+        "name": "店长推荐", 
+        "reprice": "68.00"
+      }, 
+      {
+        "id": 3, 
+        "name": "热销商品", 
+        "reprice": "23.00"
+      }, 
+      {
+        "id": 5, 
+        "name": "缤纷小吃", 
+        "reprice": "543.00"
+      }, 
+      {
+        "id": 8, 
+        "name": "主食", 
+        "reprice": "123.00"
+      }, 
+      {
+        "id": 10, 
+        "name": "招牌菜", 
+        "reprice": "123.00"
+      }, 
+      {
+        "id": 12, 
+        "name": "来店必点", 
+        "reprice": "355.00"
+      }
+    ], 
+    "goodsInfo": [
+      {
+        "id": 8, 
+        "cate_id": 2, 
+        "name": "羊肉丸菠菜汤", 
+        "description": "", 
+        "price": "56.00", 
+        "reprice": "68.00", 
+        "thumb_img": "/uploads/goods/products/1524578116282061.png", 
+        "main_img": "/uploads/goods/products/1524578116590383.png", 
+        "detail": "<p><p>羊肉丸菠菜汤</p></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 6555, 
+        "created_at": "2018-04-24 21:55:16", 
+        "updated_at": "2018-04-24 13:55:16"
+      }, 
+      {
+        "id": 12, 
+        "cate_id": 2, 
+        "name": "清蒸大闸蟹", 
+        "description": "", 
+        "price": "34.00", 
+        "reprice": "58.00", 
+        "thumb_img": "/uploads/goods/products/1524495058893581.jpg", 
+        "main_img": "/uploads/goods/products/1524495058433763.jpg", 
+        "detail": "<p><span style=\"color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);\">清蒸大闸蟹</span></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 3543, 
+        "created_at": "2018-04-24 21:52:52", 
+        "updated_at": "2018-04-24 13:52:52"
+      }, 
+      {
+        "id": 13, 
+        "cate_id": 2, 
+        "name": "家常黄焖鸡", 
+        "description": "", 
+        "price": "34.00", 
+        "reprice": "58.00", 
+        "thumb_img": "/uploads/goods/products/1524495122690401.jpg", 
+        "main_img": "/uploads/goods/products/1524495122478814.jpg", 
+        "detail": "<p><span style=\"color: rgb(34, 34, 34); font-family: Consolas, "Lucida Console", "Courier New", monospace; font-size: 12px; white-space: pre-wrap; background-color: rgb(255, 255, 255);\">家常黄焖鸡</span></p>", 
+        "remark": "", 
+        "integral": null, 
+        "status": "1", 
+        "num": 34, 
+        "created_at": "2018-04-24 21:52:53", 
+        "updated_at": "2018-04-24 13:52:53"
+      }
+    ]
+  }
+}
+
+分类商品：https://www.gengyong.com.cn/api/goods-list
